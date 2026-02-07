@@ -1,2 +1,2 @@
-# CJN001.github.io
+# CJN002.github.io
 My first repository
